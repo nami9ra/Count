@@ -15,6 +15,7 @@
 		118AC151250F9C2400797E1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 118AC14F250F9C2400797E1E /* LaunchScreen.storyboard */; };
 		118AC15C250F9C2500797E1E /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 118AC15B250F9C2500797E1E /* CountTests.swift */; };
 		118AC167250F9C2500797E1E /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 118AC166250F9C2500797E1E /* CountUITests.swift */; };
+		118AC175250F9D9200797E1E /* back.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 118AC174250F9D9200797E1E /* back.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		118AC162250F9C2500797E1E /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		118AC166250F9C2500797E1E /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		118AC168250F9C2500797E1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		118AC174250F9D9200797E1E /* back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = back.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		118AC143250F9C1F00797E1E /* Count */ = {
 			isa = PBXGroup;
 			children = (
+				118AC174250F9D9200797E1E /* back.jpg */,
 				118AC144250F9C1F00797E1E /* AppDelegate.swift */,
 				118AC146250F9C1F00797E1E /* SceneDelegate.swift */,
 				118AC148250F9C1F00797E1E /* ViewController.swift */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				118AC175250F9D9200797E1E /* back.jpg in Resources */,
 				118AC151250F9C2400797E1E /* LaunchScreen.storyboard in Resources */,
 				118AC14E250F9C2400797E1E /* Assets.xcassets in Resources */,
 				118AC14C250F9C1F00797E1E /* Main.storyboard in Resources */,
